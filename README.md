@@ -204,7 +204,8 @@ Jiron演示环境体验
 
 ## 联系我们
 
-- 邮箱: 642933588@qq.com（qq同号）
-- v信号：smallfortheuniverse （加v请注明来意）
-<img width="219" alt="image" src="https://github.com/user-attachments/assets/114c715d-d38e-46aa-af36-df8d518939eb">
+- 邮箱: 810021796@qq.com（qq同号）
+- v信号：F810021796 （加v请注明来意）
+
+![image](https://github.com/user-attachments/assets/5b262636-9332-4b70-8ddd-ef0a5e0a1365)
 
